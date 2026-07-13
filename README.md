@@ -391,12 +391,3 @@ It helps the project reach more developers and motivates future improvements.
 
 This project is licensed under the MIT License.
 
----
-
-<div align="center">
-
-## 🚀 Designed & Developed with ❤️ by Alok Kumar Mishra
-
-### Building AI Applications that solve real-world problems.
-
-</div>
